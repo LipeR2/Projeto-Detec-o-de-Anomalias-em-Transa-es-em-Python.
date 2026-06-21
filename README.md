@@ -2,7 +2,7 @@
 # Projeto: Detecção de Anomalias em Transações em Python.
 
 ## 📚 Descrição:
->***O repositório é um Lab. (laboratório) com intenção de aplicar conceitos de Data Science e Python no desenvolvimento de habilidades de análise preditiva com Machine Learning para detectar anomalias em transações bancários. Com a ideia central em transformar os dados brutos em informações úteis para o modelo de classificação, fraude ou normal, um conceito booleano de verdadeiro o false, em Machine Learning. Balancear os dados, dividir a base de dados em treino e teste, uso de regressão logística para um baseline para o modelo avançado em árvores (XGBoost), entre outras atividades.***
+>***O repositório é um Lab. (laboratório) com intenção de aplicar conceitos de Data Science e Python no desenvolvimento de habilidades em análise preditiva com Machine Learning para detectar anomalias em transações bancários. Com a ideia central em transformar os dados brutos em informações úteis para o modelo de classificação, fraude ou normal, um conceito booleano de verdadeiro ou false, em Machine Learning. Balancear os dados, dividir a base de dados em treino e teste, uso de regressão logística para um baseline para o modelo avançado em árvores (XGBoost), entre outras atividades em desenvolvimento contínuo.***
 
 ## ✅ Tópicos de Construção:
 - *Uso da linguagem Python;*
